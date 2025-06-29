@@ -5,7 +5,7 @@
 This project was completed for the Machine Learning individual assignment.  
 The task was to develop a predictive model that estimates the number of citations a scientific paper would receive based on its metadata.
 
-The assignment was structured as a competitive challenge hosted on Codalab, where students submitted predictions and were ranked on aleaderboard based on their model's **Mean Absolute Error (MAE)**.
+The assignment was structured as a competitive challenge hosted on Codalab, where students submitted predictions and were ranked on aleaderboard based on their model's Mean Absolute Error (MAE).
 The submission received bonus points for having scored higher than the baseline on the leaderboard. 
 
 ## Task Description
